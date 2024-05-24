@@ -1,0 +1,2 @@
+Using NewCleanedDataDuplicated.csv we created FinalCleanedData.csv (code in cleanded.ipynb)
+Then we created a model using MainModel using FinalCleanedData and Outcome and created a prediction.ipynb file to predict outcomes
